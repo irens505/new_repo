@@ -8,5 +8,6 @@ int main()
 	cout << a + b;
 	cout << a * b;
 	cout << "Hi";
+	cout << "Welcome!";
 	return 0;
 }
