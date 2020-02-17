@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-	int r;
+	int ñ;
 	int b;
 	cout << "Welcome!";
 	cout << "Hello";
