@@ -5,6 +5,7 @@ int main()
 	cout << "Goodbye";
 =======
 	int a;
+	int d;
 	cout << "Welcome";
 >>>>>>> master
 	cout << "Hello world";
