@@ -6,5 +6,7 @@ int main()
 	cout << "Hello world";
 	cout << "Hello, everybody";
 	cout << a + b;
+	cout << a * b;
+	cout << "Hi";
 	return 0;
 }
